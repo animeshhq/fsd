@@ -1,14 +1,8 @@
-# College & Course Info
+# College Assignment - README
 
-## 👤 Personal Details
-- **Name:** Animesh Gautam  
-- **Father's Name:** B.K. Pandey  
-- **Mother's Name:** Alka Pandey  
+This repository is created as part of the first assignment given by our college.  
+The task was to create a simple HTML file and a README, then publish it on GitHub.  
 
-## 🎓 Academic Details
-- **Branch:** Computer Science & Engineering (Data Science)  
-- **Section:** 1  
-- **College:** ABESEC, Ghaziabad  
-
-## 📍 Address
-ABESEC, Ghaziabad
+## Contents
+- `index.html` → A basic webpage with sample information  
+- `README.md` → Documentation explaining the purpose of this repository  
