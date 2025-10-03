@@ -4,5 +4,5 @@ This repository is created as part of the first assignment given by our college.
 The task was to create a simple HTML file and a README, then publish it on GitHub.  
 
 ## Contents
-- `index.html` → A basic webpage with sample information  
+- `fsd_1.html` → A basic webpage with sample information  
 - `README.md` → Documentation explaining the purpose of this repository  
