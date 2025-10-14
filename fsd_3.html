@@ -8,7 +8,7 @@
 <body>
     <h2>BMW Car Registration Form</h2>
 
-    <form>
+    <form action="#" method="post">
         <label for="ownerName">Owner Name:</label><br>
         <input type="text" id="ownerName" name="ownerName" required><br><br>
 
@@ -24,6 +24,12 @@
             <option value="bmw-x5">BMW X5</option>
             <option value="bmw-m4">BMW M4</option>
         </select><br><br>
+
+        <label>Condition:</label><br>
+        <input type="radio" id="new" name="condition" value="new" required>
+        <label for="new">New</label><br>
+        <input type="radio" id="used" name="condition" value="used">
+        <label for="used">Used</label><br><br>
 
         <label for="regNumber">Registration Number:</label><br>
         <input type="text" id="regNumber" name="regNumber" required><br><br>
