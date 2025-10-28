@@ -8,3 +8,4 @@ This repository is created as part of the first assignment given by our college.
 - `fsd_3.html` → Using Audio and Video and iFrame tag
 - `fsd_4.html` → Form Design
 - `fsd_5.html` → An email signup form
+- `st1.html` → form made in html during college st1 practicals in web design
