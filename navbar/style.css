@@ -3,29 +3,32 @@ html {
 }
 
 .mainNav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 100%;
     background-color: white;
     color: black;
     padding: 20px 0;
+    text-align: center; 
 }
 
 .container {
     width: 50%;
+    margin: 0 auto; 
 }
 
 ul {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 40px;
     list-style: none;
     padding: 0;
     margin: 0;
+    text-align: center;
 }
 
 li {
-    display: inline-block;
+    display: inline-block; 
+    margin: 0 20px; 
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
 }
