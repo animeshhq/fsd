@@ -10,3 +10,7 @@ This repository is created as part of the first assignment given by our college.
 - `fsd_5.html` → An email signup form
 - `st1.html` → form made in html during college st1 practicals in web design
 - `resume` → folder containing a sample resume which I created for a class test
+- `calender` → made a calender using CSS GRID property
+- `ecom` → a simple ecommerce website made using grid properties
+- `navbar` → a navbar
+- `responsive` → product page using grid and media queries
