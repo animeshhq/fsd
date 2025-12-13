@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+    background: #e9eef3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.id-card {
+    width: 380px;
+    height: 230px;
+    background: #ffffff;
+    border-radius: 10px;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    padding: 14px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+}
+
+.header {
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+}
+
+.college-name {
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+}
+
+.college-sub {
+    font-size: 11px;
+    color: #555;
+    margin-top: 2px;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 95px 1fr;
+    gap: 12px;
+    padding: 12px 0;
+}
+
+.photo {
+    background: #f1f4f7;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 11px;
+    color: #666;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.details p {
+    font-size: 12px;
+    margin: 3px 0;
+    color: #333;
+}
+
+.details p span {
+    color: #666;
+    width: 70px;
+    display: inline-block;
+}
+
+.details .name {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #ddd;
+    padding-top: 8px;
+    font-size: 11px;
+}
+
+.signature {
+    border-top: 1px solid #333;
+    padding-top: 2px;
+    font-size: 10px;
+    text-align: center;
+    width: 90px;
+}
